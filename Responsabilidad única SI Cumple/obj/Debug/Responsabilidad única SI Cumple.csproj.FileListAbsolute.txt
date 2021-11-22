@@ -1,0 +1,8 @@
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Responsabilidad única SI Cumple\bin\Debug\Responsabilidad única SI Cumple.exe.config
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Responsabilidad única SI Cumple\bin\Debug\Responsabilidad única SI Cumple.exe
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Responsabilidad única SI Cumple\bin\Debug\Responsabilidad única SI Cumple.pdb
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Responsabilidad única SI Cumple\obj\Debug\Responsabilidad única SI Cumple.csproj.AssemblyReference.cache
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Responsabilidad única SI Cumple\obj\Debug\Responsabilidad única SI Cumple.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Responsabilidad única SI Cumple\obj\Debug\Responsabilidad única SI Cumple.csproj.CoreCompileInputs.cache
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Responsabilidad única SI Cumple\obj\Debug\Responsabilidad única SI Cumple.exe
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Responsabilidad única SI Cumple\obj\Debug\Responsabilidad única SI Cumple.pdb

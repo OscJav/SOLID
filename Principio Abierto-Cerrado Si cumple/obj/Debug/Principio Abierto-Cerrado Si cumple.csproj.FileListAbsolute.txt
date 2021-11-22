@@ -1,0 +1,8 @@
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Principio Abierto-Cerrado Si cumple\bin\Debug\Principio Abierto-Cerrado Si cumple.exe.config
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Principio Abierto-Cerrado Si cumple\bin\Debug\Principio Abierto-Cerrado Si cumple.exe
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Principio Abierto-Cerrado Si cumple\bin\Debug\Principio Abierto-Cerrado Si cumple.pdb
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Principio Abierto-Cerrado Si cumple\obj\Debug\Principio Abierto-Cerrado Si cumple.csproj.AssemblyReference.cache
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Principio Abierto-Cerrado Si cumple\obj\Debug\Principio Abierto-Cerrado Si cumple.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Principio Abierto-Cerrado Si cumple\obj\Debug\Principio Abierto-Cerrado Si cumple.csproj.CoreCompileInputs.cache
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Principio Abierto-Cerrado Si cumple\obj\Debug\Principio Abierto-Cerrado Si cumple.exe
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Principios SOLID-Oscar\Responsabilidad unica Si cumple\Principio Abierto-Cerrado Si cumple\obj\Debug\Principio Abierto-Cerrado Si cumple.pdb
