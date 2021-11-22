@@ -1,0 +1,8 @@
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Ejercicios-SOLID-\Principio Sustitución de Liskov No Cumple\Principio Sustitución de Liskov\bin\Debug\Principio Sustitución de Liskov.exe.config
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Ejercicios-SOLID-\Principio Sustitución de Liskov No Cumple\Principio Sustitución de Liskov\bin\Debug\Principio Sustitución de Liskov.exe
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Ejercicios-SOLID-\Principio Sustitución de Liskov No Cumple\Principio Sustitución de Liskov\bin\Debug\Principio Sustitución de Liskov.pdb
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Ejercicios-SOLID-\Principio Sustitución de Liskov No Cumple\Principio Sustitución de Liskov\obj\Debug\Principio Sustitución de Liskov.csproj.AssemblyReference.cache
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Ejercicios-SOLID-\Principio Sustitución de Liskov No Cumple\Principio Sustitución de Liskov\obj\Debug\Principio Sustitución de Liskov.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Ejercicios-SOLID-\Principio Sustitución de Liskov No Cumple\Principio Sustitución de Liskov\obj\Debug\Principio Sustitución de Liskov.csproj.CoreCompileInputs.cache
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Ejercicios-SOLID-\Principio Sustitución de Liskov No Cumple\Principio Sustitución de Liskov\obj\Debug\Principio Sustitución de Liskov.exe
+C:\Users\Oscar.Malaver.LTANAPROG20J\source\repos\Ejercicios-SOLID-\Principio Sustitución de Liskov No Cumple\Principio Sustitución de Liskov\obj\Debug\Principio Sustitución de Liskov.pdb

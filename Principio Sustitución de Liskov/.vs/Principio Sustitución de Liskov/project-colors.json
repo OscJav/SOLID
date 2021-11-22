@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70666a24-9641-4f6a-93e3-a811f4c6c89d": {
+      "ProjectGuid": "70666a24-9641-4f6a-93e3-a811f4c6c89d",
+      "DisplayName": "Principio Sustitución de Liskov",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
